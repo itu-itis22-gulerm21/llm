@@ -1,0 +1,11 @@
+{
+  "total_tasks": 20000,
+  "mol_gen_tasks": 10000,
+  "affinity_pred_tasks": 10000,
+  "sources": {
+    "bindingdb": 7000,
+    "pdbbind": 1000,
+    "moad": 1000,
+    "biolip": 1000
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "config": {
+    "num_samples": 100,
+    "max_new_tokens": 256,
+    "temperature": 0.1
+  },
+  "results": {}
+}
